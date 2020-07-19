@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: c5ad860d4121d154abfb6bd494aba4a7
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Agua
+    second: {fileID: 2100000, guid: 8d03b7a1aab77604597545342eecb326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2100000, guid: 00c2bd412c6f7f64888061a1ac88a056, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETO DE MURO
+    second: {fileID: 2100000, guid: 99c4917dfae28954581b6f00e4999b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CONCRETO PULIDO
+    second: {fileID: 2100000, guid: c9df5077329869b49bb0633cc28aeeb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinets
+    second: {fileID: 2100000, guid: 921a5a6b7f4dbab47accca3fdca3fc17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinets - Handles
+    second: {fileID: 2100000, guid: c5eaf59bd3ceef0469842fbc3c69b48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling Tile 600 x 1200
+    second: {fileID: 2100000, guid: 37c9a9f3745b1794583ce51ed394fe6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Precast
+    second: {fileID: 2100000, guid: 68db7f97c1f5fe649b64d3d974747e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Counter Top
+    second: {fileID: 2100000, guid: 28009d45c0e60a646b766f8e8c2faf44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 70ed2ccf8c98f1944bc671ec835809ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Form
+    second: {fileID: 2100000, guid: 6aab29cac5f89254e9dbf28235d67371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Roof
+    second: {fileID: 2100000, guid: a33d85370ed7b2348af4f5d4bc20debe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Wall
+    second: {fileID: 2100000, guid: 08543128333eea847b70a3c7d72afd1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth
+    second: {fileID: 2100000, guid: 4a1410898b8ac394ba4dd484cc16c9f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 8fd420e1f7db01544b3a2aca8966e833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 67bba8fb17bf95240a2ef037717c863d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Clear, Grey
+    second: {fileID: 2100000, guid: 77aafa5ff2f9cc34fa8c31cae280ed5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Shelves
+    second: {fileID: 2100000, guid: fc936991e50afb044b4c04b7e6fcdeee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall Board
+    second: {fileID: 2100000, guid: 3bae8f50c11f96449acee240cbff28bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall Board (1)
+    second: {fileID: 2100000, guid: 1cb981f59d7f0684e900a8140ebbfec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate, Ivory, Matte
+    second: {fileID: 2100000, guid: ffd72e146a5770c42a0e2200eb0809ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate, Linen, Matte
+    second: {fileID: 2100000, guid: 9aaac22b3fd723c40ab4463c0b2b50c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather - Black
+    second: {fileID: 2100000, guid: 8e2c6fdc76331e84caf91aada806dc30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Linen, Beige
+    second: {fileID: 2100000, guid: e2cdaf67c8752544caf3e25e9eeff797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Melamine - Gray
+    second: {fileID: 2100000, guid: 0c4b8aa7b2c24b540b9e9566f7cea6ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Chrome
+    second: {fileID: 2100000, guid: 86fda4e683fb3bd4185164a0b4f6e553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Deck (1)
+    second: {fileID: 2100000, guid: 667392589f9b7b34a8f478229b751331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak Flooring
+    second: {fileID: 2100000, guid: 254931ce0d0abc548910536be433b140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pine
+    second: {fileID: 2100000, guid: b95397e1e2a854b459fb2f6faa6de37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Piso ba\xF1o"
+    second: {fileID: 2100000, guid: a6569149b47af524db0f843dd89f1b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic, Opaque Black
+    second: {fileID: 2100000, guid: 6e199f9dcb4b8c446b6771b60f8643d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelain, Ivory
+    second: {fileID: 2100000, guid: fc79442604211594ba77174c9e210442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelain, Linen
+    second: {fileID: 2100000, guid: 7453e77266338d444b17583e1a47ceb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, 45-345
+    second: {fileID: 2100000, guid: 979e041367ce7fd4fb7a4124166e4336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Chrome Plated
+    second: {fileID: 2100000, guid: a1831c98c1fc2d543ad7b381d179674d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Ivory, Glossy
+    second: {fileID: 2100000, guid: d1ad967d76e437a44a9840c375ddb273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Ivory, Matte
+    second: {fileID: 2100000, guid: c2a1ffb249c24dd49a594269bfb5b415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Polished
+    second: {fileID: 2100000, guid: 4e41ce6d116f6f547a0d28b376ffdd7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Black
+    second: {fileID: 2100000, guid: 8063d3afb8bb71b4ea111ef4b544c914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Glass
+    second: {fileID: 2100000, guid: 5a3969ac964816d43a78a97b67e6eae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV - Screen
+    second: {fileID: 2100000, guid: 95a45e394b513364da45bada28ebce6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textile - Bamboo Weave
+    second: {fileID: 2100000, guid: 843c6b3116b6f74429bd530f9a0fb4dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grsss
+    second: {fileID: 2100000, guid: 34323f02ffb46fd45af3339a69615eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile
+    second: {fileID: 2100000, guid: bb10568a832dfbe4bb1ba0229d804f89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile2
+    second: {fileID: 2100000, guid: 56026aa7a0ae272459b60b0088dec21f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete.Cast-In-Place.Flat.Polished.Grey(2)
+    second: {fileID: 2800000, guid: 94fcb7dcc9faf794b9109b106a804bfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete.Cast-in-Place.Formwork.Wood.Boards(2)
+    second: {fileID: 2800000, guid: c4d116c098c879d4b87edb090bd228c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete.Cast-in-Place.Formwork.Wood.Boards.bump(2)
+    second: {fileID: 2800000, guid: 4166c2dfc0546d145ac9983b6e42af90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete.Precast Structural Concrete.Smooth
+    second: {fileID: 2800000, guid: d7319212591ec3d43a89cc03e22b3982, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Ceilings.Acoustical Tile.Exposed Grid.2x4.Fissured.White
+    second: {fileID: 2800000, guid: 800bd380301cc794b885d91c072bb0d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Flooring.Tile.Square.Terra Cotta(2)
+    second: {fileID: 2800000, guid: c5316e80e761d624db10a47be85d9362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Flooring.Tile.Square.Terra Cotta(5)
+    second: {fileID: 2800000, guid: 1bcb466e7f37e694ab2dbca900d0916f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Flooring.Tile.Square.Terra Cotta.bump(2)
+    second: {fileID: 2800000, guid: 63b0f4ee910963c408dff85b145be6c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Flooring.Tile.Square.Terra Cotta.bump(5)
+    second: {fileID: 2800000, guid: 3157c87329cac744cb40caffd01aaf76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Gypsum Board.Painted.White
+    second: {fileID: 2800000, guid: c322554aff47db94398f7024c69b8a9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Gypsum Board.Painted.White(1)
+    second: {fileID: 2800000, guid: df0751dc23d91154fb1bb7eaa69efe0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Gypsum Board.Painted.White.bump
+    second: {fileID: 2800000, guid: 65a1dac38cb4b154a96ff9c0fb390a2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Gypsum Board.Painted.White.bump(1)
+    second: {fileID: 2800000, guid: a891e41602ba14d4688f2d692fbfd8a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Furnishings.Fabrics.Leather.Black
+    second: {fileID: 2800000, guid: d10812ada452e8846b47797140514961, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Furnishings.Fabrics.Leather.Black.bump
+    second: {fileID: 2800000, guid: 02998a5e95d6fa443bf368e38f0dfef1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Furnishings.Fabrics.Linen.Beige(2)
+    second: {fileID: 2800000, guid: 17822a897ce7ab64592d1c34e0cc675d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse(2)
+    second: {fileID: 2800000, guid: 24cb5f3cfd4ef994d9fb1f39c679535e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Masonry.Stone.Marble.Square.Stacked.Polished.White.coarse.bump(2)
+    second: {fileID: 2800000, guid: 450985044ba64294682d032e90c9b45f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metals.Ornamental Metals.Aluminum.Brushed.Random
+    second: {fileID: 2800000, guid: a848736211dc6d7419f8bbbb5179cf70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metals.Ornamental Metals.Plate.Mesh.cutout(2)
+    second: {fileID: 2800000, guid: 8760c61354cfcc74fb426d4d2b904c7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitework.Planting.Grass.Thick(2)
+    second: {fileID: 2800000, guid: a941ee6363966b4459bbf71944e6cd4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitework.Planting.Grass.Thick.bump(2)
+    second: {fileID: 2800000, guid: 275b319cf208e1741a818a02e7d186da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitework.Planting.Gravel.Mixed
+    second: {fileID: 2800000, guid: 9a0c26c8e283b1d47b312b459c065687, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sitework.Planting.Gravel.Mixed.bump
+    second: {fileID: 2800000, guid: 4202c9893d2455240a7ec221d32a9536, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Steelplt
+    second: {fileID: 2800000, guid: ec60fad778d181349bbcef6af5c1240a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Steelplt(1)
+    second: {fileID: 2800000, guid: b94253b9aa9d41749935ccd2fac71a6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woods & Plastics.Finish Carpentry.Plastic Laminates.Taupe(2)
+    second: {fileID: 2800000, guid: 94ed37fb9f811de4fa9c2ad48be01704, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woods & Plastics.Finish Carpentry.Plastic Laminates.Taupe.bump(2)
+    second: {fileID: 2800000, guid: a5615b5a24fe9794284dff168b5c3d93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woods & Plastics.Finish Carpentry.Wood.Cherry(2)
+    second: {fileID: 2800000, guid: b0a19e28eacf442459ea059e0ab13218, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woods & Plastics.Finish Carpentry.Wood.Pine(2)
+    second: {fileID: 2800000, guid: f40af75a1e698224f82009100911aafb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: beechwood_galliano(2)
+    second: {fileID: 2800000, guid: 2f5d0f56c8ce3294bb9623c82f26ebc0, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
