@@ -9,7 +9,7 @@ Main unity functionalities:
   
   - Reactive objects that can be grabbed when pointed at.
 
-![DemoImage2](https://github.com/JorgeLeonS/PlantaTuSemilla/blob/master/DemoImages/DemoImage2.png)
+  ![DemoImage2](https://github.com/JorgeLeonS/PlantaTuSemilla/blob/master/DemoImages/DemoImage2.png)
 
 - Four main scenes for climate change awareness:
   1. Introduction to the problem with a video.
